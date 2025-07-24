@@ -2,6 +2,8 @@
 - multi-page website for DualPlay Studio, a sports event center that celebrates both football and soccer. 
 - The website features multiple pages, semantic HTML structure, and responsive layout like Flexbox and Media Query.
 
+# Demo: https://zippy-frangollo-614a68.netlify.app/
+
 ## Pages
 1. **index.html** -> Home Page  
    - Hero banner with image
